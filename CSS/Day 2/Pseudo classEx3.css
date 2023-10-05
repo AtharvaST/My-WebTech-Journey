@@ -1,0 +1,21 @@
+#a{
+    
+    background-image: url(./Butterfly.jpg);
+    background-size:700px 220px;
+    /* background-position: top; */
+    
+}
+
+#b{
+    background-image: url(./Flower.jpg);
+    background-size:700px 220px;
+    /* background-position: top; */
+
+
+}
+
+#c{
+    background-image: url(./Butterfly.jpg);
+    background-size:700px 220px;
+    /* background-position: top; */
+}
