@@ -1,0 +1,16 @@
+
+#bg{
+    height: 700px;
+    width: 900px;
+  position: relative;
+}
+
+#obj{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    
+}
+

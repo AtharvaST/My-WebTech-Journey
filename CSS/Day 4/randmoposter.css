@@ -1,0 +1,29 @@
+#bg{
+    background-image: url(./mike-dorner-sf_1ZDA1YFw-unsplash.jpg);
+    height: 1000px;
+    width: 1200px;
+    background-size: 1000px 900px;
+    position: relative;
+
+
+    }
+
+    #mk{
+        background-image: url(./monkey-40.png);
+        height: 400px;
+        width: 400px;
+        background-size: 400px 400px;
+        position: absolute;
+        top: 100px;
+    }
+/* 
+    #mk2{
+        background-image: url();
+        height: 400px;
+        width: 400px;
+        background-size: 400px 400px;
+        position: absolute;
+        bottom: 100px;
+
+
+    } */
